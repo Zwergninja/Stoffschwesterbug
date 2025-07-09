@@ -25,8 +25,9 @@
 <hr>
 <hr>
 
-Button geht auf keiner seite
-![image](https://github.com/user-attachments/assets/530becc3-d104-4057-8b3a-9e14d847187e)
+<h1>Button geht auf keiner seite</h1>
+
+![image](https://github.com/user-attachments/assets/5944584e-55f1-4f70-95b6-4c07e490d0e2)
 
 
 
@@ -34,7 +35,7 @@ Button geht auf keiner seite
 <hr>
 <hr>
 
-Bestellen geht nicht
+<h1>Bestellen geht nicht</h1>
 
 ![image](https://github.com/user-attachments/assets/e4793872-4c19-4505-896a-efaab1087950)
 
