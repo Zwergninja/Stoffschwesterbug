@@ -25,7 +25,7 @@
 <hr>
 <hr>
 
-<h1>Button geht auf keiner seite</h1>
+<h1>Button geht auf keiner Seite</h1>
 
 ![image](https://github.com/user-attachments/assets/5944584e-55f1-4f70-95b6-4c07e490d0e2)
 
@@ -35,7 +35,7 @@
 <hr>
 <hr>
 
-<h1>Bestellen geht nicht (genereller fehler geht auf keiner Seite)</h1>
+<h1>Bestellen geht nicht (genereller Fehler geht auf keiner Seite)</h1>
 
 ![image](https://github.com/user-attachments/assets/e4793872-4c19-4505-896a-efaab1087950)
 
