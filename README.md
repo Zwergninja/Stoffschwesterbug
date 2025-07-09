@@ -1,4 +1,4 @@
-<h1>slick slide hat verschiedene Werbungen auf unterschiedlichen seiten (Unnötig)</h1>
+<h1>slick slide hat verschiedene Werbungen auf unterschiedlichen seiten (schon erklärt)</h1>
 <table>
   <tr>
     <th>Website</th>
