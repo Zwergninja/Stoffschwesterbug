@@ -35,7 +35,7 @@
 <hr>
 <hr>
 
-<h1>Bestellen geht nicht</h1>
+<h1>Bestellen geht nicht (genereller fehler geht auf keiner Seite</h1>
 
 ![image](https://github.com/user-attachments/assets/e4793872-4c19-4505-896a-efaab1087950)
 
